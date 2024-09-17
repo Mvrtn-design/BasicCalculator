@@ -21,12 +21,14 @@ public class BasicCalculator {
         // ADD
         add(a, b);
 
-        //SUBSTRACT
+        // SUBSTRACT
         substract(a, b);
-        
-        multiply(a, b);
-        divide(a, b);
 
+        // MULTIPLICATION
+        multiply(a, b);
+
+        // DIVISION
+        divide(a, b);
     }
 
     public static void main(String[] args) {
